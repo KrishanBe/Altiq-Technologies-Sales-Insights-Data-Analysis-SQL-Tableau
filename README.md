@@ -3,7 +3,7 @@
 Data Used
 Data: [Altiq Sales Data](https://codebasics.io/resources/sales-insights-data-analysis-project)
 
-Dashboard Link: https://public.tableau.com/app/profile/krishan.mohan.beniwal/viz/SalesInsights_17134535164900/Dashboard-Revenue?publish=yes
+Dashboard Link: [Tableau Dashboard](https://public.tableau.com/app/profile/krishan.mohan.beniwal/viz/SalesInsights_17134535164900/Dashboard-Revenue?publish=yes)
 
 Data Cleaning, Analysis and Data Visualization: SQL and Tableau
 
